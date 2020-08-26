@@ -144,3 +144,29 @@ text-align: center;
     background-size: cover;
 
 }
+
+.general{
+    background-color: #D8E6F8;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 50px;
+    margin-bottom: 80px;
+}
+.logo{
+    width: 100px;
+    height: auto;
+}
+.container-caja{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja-lec{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 50px;
+}

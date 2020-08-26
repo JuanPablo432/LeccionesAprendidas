@@ -1,0 +1,146 @@
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.index {
+    background-image: url('../../images/fondoindex.PNG');
+    background-size: cover;
+
+}
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.boton1{
+    margin: 100px 500px;
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.bodymain {
+    background-image: url('../../images/fondomain.PNG');
+    background-size: cover;
+
+}
+
+.menu--container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+.caja-items{
+    display:grid;
+    grid-template-columns: repeat(6,1fr);  
+    grid-gap: 10px;  
+    list-style: none;
+}
+
+.items{
+padding: 10px;
+font-size: 20px;
+background-color: rgba(255, 255, 255, 0.6);
+border-radius: 20px;
+text-align: center;
+}
+.safety {
+    background-image: url('../../images/fondosafety.PNG');
+    background-size: cover;
+
+}
+.people {
+    background-image: url('../../images/peoplefondo.jpg');
+    background-size: cover;
+
+}
+.bodegas {
+    background-image: url('../../images/bodegas.JPG');
+    background-size: cover;
+
+}
+.calidad {
+    background-image: url('../../images/calidadfondo.JPG');
+    background-size: cover;
+
+}
+.proyectos {
+    background-image: url('../../images/proyectos.JPG');
+    background-size: cover;
+}
+.lluvia {
+    background-image: url('../../images/lluvias.JPG');
+    background-size: cover;
+
+}
+.ergonomia {
+    background-image: url('../../images/ergonomia.JPG');
+    background-size: cover;
+
+}
+.capacidad {
+    background-image: url('../../images/responssines.JPG');
+    background-size: cover;
+
+}
+.contratistas {
+    background-image: url('../../images/contratistas.JPG');
+    background-size: cover;
+}
+.costos {
+    background-image: url('../../images/cost.JPG');
+    background-size: cover;
+
+}
+.drops {
+    background-image: url('../../images/drops.JPG');
+    background-size: cover;
+}
+.equiposmoviles {
+    background-image: url('../../images/Equiposmoviles.JPG');
+    background-size: cover;
+
+}
+.estandarizacion {
+    background-image: url('../../images/estandarizacion.JPG');
+    background-size: cover;
+
+}
+.scrap {
+    background-image: url('../../images/scrap.JPG');
+    background-size: cover;
+
+}
+.lanzamientos {
+    background-image: url('../../images/lanzamientos.JPG');
+    background-size: cover;
+
+}
+.medioambiente {
+    background-image: url('../../images/medioambiente.JPG');
+    background-size: cover;
+
+}
+.mejoras {
+    background-image: url('../../images/mejoras.JPG');
+    background-size: cover;
+
+}
+.proveedores {
+    background-image: url('../../images/proveedores.JPG');
+    background-size: cover;
+
+}
+.soporte {
+    background-image: url('../../images/soportedeproduccion.JPG');
+    background-size: cover;
+
+}

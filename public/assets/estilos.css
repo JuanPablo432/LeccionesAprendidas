@@ -192,6 +192,7 @@ text-align: center;
 }
 
 @media (max-width: 840px){
+    /* pantalla del menu*/
     .bodymain{
         width: 90vw;
         height: 90vh;
@@ -208,5 +209,29 @@ text-align: center;
     .caja-items{
         grid-template-columns: repeat(4, 1fr);
     }
+    /*pantalla inicial*/
 
+    .index{
+        width: 90vw;
+        height: 90vh;
+        margin: 0;
+        padding:0;
+    }
+    .container{
+        width: 90vw;
+        height: 90vh;
+        margin: 0;
+        padding:0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .boton1{
+        margin:0;
+        padding: 0;
+        width: 50%;
+        background: rgba(0,0,0,0.8);
+        border-radius: 50px;
+        color: white;
+    }
 }
